@@ -1,7 +1,7 @@
 {
-  "url": "none",
-  "selectionway_url": "none",
-  "dashboard_url": "https://example.com/dashboard",
+  "url": "https://app-screen-update.netlify.app/",
+  "selectionway_url": "https://app-screen-update.netlify.app/",
+  "educationbaba_url": "https://app-screen-update.netlify.app/",
   "offers_url": "https://example.com/offers",
   "profile_url": "https://example.com/profile",
 
